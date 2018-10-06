@@ -1,0 +1,13 @@
+!SESSION 2018-09-26 20:59:17.459 -----------------------------------------------
+eclipse.buildId=v22.0.1-685705
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product -product com.android.ide.eclipse.adt.package.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.android.ide.eclipse.adt.package.product -data E:\DE TUDO UM POUCO\Principais\Etec\Xiss Ressurge de Novo\3° Modulo\TM\Workspace -product com.android.ide.eclipse.adt.package.product
+
+!ENTRY com.android.ide.eclipse.ddms 4 0 2018-09-26 20:59:21.855
+!MESSAGE DDMS files not found: C:\adt-bundle-windows-x86Perfeito\adt-bundle-windows-x86-20130522\sdk\tools\hprof-conv.exe C:\adt-bundle-windows-x86Perfeito\adt-bundle-windows-x86-20130522\sdk\tools\traceview.bat 
+
+!ENTRY com.android.ide.eclipse.ddms 4 0 2018-09-26 20:59:21.863
+!MESSAGE DDMS files not found: C:\adt-bundle-windows-x86Perfeito\adt-bundle-windows-x86-20130522\sdk\tools\hprof-conv.exe C:\adt-bundle-windows-x86Perfeito\adt-bundle-windows-x86-20130522\sdk\tools\traceview.bat 
